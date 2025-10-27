@@ -1,6 +1,6 @@
 // URL to fetch your sheet as JSON
 const SHEET_URL =
-  "https://docs.google.com/spreadsheets/d/1vtZ2Xmb4eKPFs_v-D-nVNAm2_d2TtqqaMFO93TtaKxM/gviz/tq?tqx=out:json";
+  "https://docs.google.com/spreadsheets/d/1BnV7IjbDB3RMg5scupI_a905i0wf6T6sqrCJnG1fOo4/gviz/tq?tqx=out:json";
 
 let data = [];
 let dataReady = false;
